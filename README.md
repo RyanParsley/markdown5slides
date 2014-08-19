@@ -1,9 +1,6 @@
-# Sass is cool, let me count the ways
-
-This presentation can be viewed at [http://ryanparsley.github.io/rf-sass/](http://ryanparsley.github.io/rf-sass/)
+# Mardown is great
+Let me * the ways[http://ryanparsley.github.io/markdown5slides](http://ryanparsley.github.io/markdown5slides)
 
 ## Featuring
-
-- [middlemanapp.com](http://middlemanapp.com/)
 
 Presentation made with [reveal.js](http://lab.hakim.se/reveal-js/)
